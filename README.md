@@ -1,16 +1,77 @@
-## Hi there 👋
 
-<!--
-**harshagopireddy/harshagopireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Deepesh Galla
+Full Stack Java Developer | Computer Science Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🎓 B.Tech Computer Science Engineering Student (2027)
+
+💻 Passionate about Full Stack Development, Cloud Computing, and Software Engineering.
+
+🌱 Currently learning:
+
+Advanced Spring Boot
+React Ecosystem
+AWS Cloud Services
+Docker & CI/CD
+System Design
+Data Structures & Algorithms
+🔨 Building:
+
+Online Voting System (Spring Boot + React + MySQL + AWS)
+🎯 Goal:
+
+Secure a Software Development Engineer role and build impactful software products.
+⚡ Fun Fact:
+
+I enjoy both coding and fitness.
+🛠️ Tech Stack
+Languages
+
+
+Frontend
+
+
+Backend
+
+
+Database
+
+
+Cloud & DevOps
+
+
+Tools
+
+
+📌 Current Project
+🗳️ Online Voting System
+A secure full-stack web application built with:
+
+✔ Spring Boot
+✔ React
+✔ MySQL
+✔ JWT Authentication
+✔ AWS Deployment
+
+Features:
+
+User Authentication & Authorization
+Election Management
+Candidate Management
+Vote Tracking
+Duplicate Vote Prevention
+Role-Based Access Control
+📊 GitHub Statistics
+
+
+🔥 GitHub Streak
+
+
+🏆 Coding Profiles
+ 
+
+🌐 Connect With Me
+ 
+
+⭐ Building projects, learning every day, and preparing for Software Engineering opportunities.
