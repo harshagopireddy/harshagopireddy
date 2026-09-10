@@ -1,76 +1,73 @@
-Hi 👋, I'm Harsha Gopireddy
-Full Stack Java Developer | Computer Science Student | Aspiring Software Engineer
+<h1 align="center">Hi 👋, I'm Harsha Gopireddy</h1>
 
+<h3 align="center">Full Stack Java Developer | Computer Science Student | Aspiring Software Engineer</h3>
 
-🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+Enthusiast;Future+Software+Engineer&center=true&width=600&height=50">
+</p>
+
+---
+
+## 🚀 About Me
+
 🎓 B.Tech Computer Science Engineering Student (2027)
 
 💻 Passionate about Full Stack Development, Cloud Computing, and Software Engineering.
 
 🌱 Currently learning:
+- Advanced Spring Boot
+- React Ecosystem
+- AWS Cloud Services
+- Docker & CI/CD
+- System Design
+- Data Structures & Algorithms
 
-Advanced Spring Boot
-React Ecosystem
-AWS Cloud Services
-Docker & CI/CD
-System Design
-Data Structures & Algorithms
 🔨 Building:
+- Kisan Market (Spring Boot + React + MySQL )
 
-Kisan Market  (Spring Boot + React + MySQL )
 🎯 Goal:
+- Secure a Software Development Engineer role and build impactful software products.
 
-Secure a Software Development Engineer role and build impactful software products.
 ⚡ Fun Fact:
+- I enjoy both coding and fitness.
 
-I enjoy both coding and fitness.
-🛠️ Tech Stack
-Languages
+---
 
+## 🛠️ Tech Stack
 
-Frontend
+### Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,javascript" />
+</p>
 
-Backend
+### Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-Database
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
 
-Cloud & DevOps
+### Database
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-Tools
+### Cloud & DevOps
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
-📌 Current Project
-🗳️ Online Voting System
-A secure full-stack web application built with:
+### Tools
 
-✔ Spring Boot
-✔ React
-✔ MySQL
-✔ JWT Authentication
-✔ AWS Deployment
-
-Features:
-
-User Authentication & Authorization
-Election Management
-Candidate Management
-Vote Tracking
-Duplicate Vote Prevention
-Role-Based Access Control
-📊 GitHub Statistics
-
-
-🔥 GitHub Streak
-
-
-🏆 Coding Profiles
- 
-
-🌐 Connect With Me
- 
-
-⭐ Building projects, learning every day, and preparing for Software Engineering opportunities.
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=idea,postman">
+</p>
