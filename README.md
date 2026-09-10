@@ -1,5 +1,4 @@
-
-Hi 👋, I'm harsha gopireddy
+Hi 👋, I'm Harsha Gopireddy
 Full Stack Java Developer | Computer Science Student | Aspiring Software Engineer
 
 
@@ -18,7 +17,7 @@ System Design
 Data Structures & Algorithms
 🔨 Building:
 
-Online Voting System (Spring Boot + React + MySQL + AWS)
+Kisan Market  (Spring Boot + React + MySQL )
 🎯 Goal:
 
 Secure a Software Development Engineer role and build impactful software products.
