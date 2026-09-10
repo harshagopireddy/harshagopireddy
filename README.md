@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Deepesh Galla
+Hi 👋, I'm harsha gopireddy
 Full Stack Java Developer | Computer Science Student | Aspiring Software Engineer
 
 
