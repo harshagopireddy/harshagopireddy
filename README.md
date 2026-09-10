@@ -71,3 +71,32 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=idea,postman">
 </p>
+---
+
+## 🏆 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/HarshaGopireddy/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/harshagopireddy" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-Developer-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshagopireddy45/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-HARSHA%20GOPIREDDY-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:ghvr045@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-ghvr045%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  
+</p>
